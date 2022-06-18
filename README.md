@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Pratik
-- 👀 I’m interested in Hiking, Travelling and Cooking
-- 🌱 I’m currently learning React, Azure, Javascript
-- 📫 How to reach me pratiksharma@live.in
-- My Linkedin Connect URL : https://www.linkedin.com/in/sharmapratik/
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently working on Javascript, Angular, React, Azure
+- 💞️ I’m looking to find a position as a UI Developer
+- 📫 You can reach me at pratiksharma@live.in
+- linkedin : https://www.linkedin.com/in/sharmapratik/
 
 <!---
 topratiksharma/topratiksharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
