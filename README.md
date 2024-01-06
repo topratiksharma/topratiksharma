@@ -3,9 +3,9 @@
 I'm a fullstack developer from India 🇮🇳 and working as a Technical Lead at [SLB Digital](slb.com)
 
 ### Currently I am working with ...
-
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
