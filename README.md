@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Pratik
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently working on Javascript, Angular, React, Azure
-- 💞️ I’m looking to find a position as a UI Developer
-- 📫 You can reach me at pratiksharma@live.in
-- ✨ Linkedin Url: https://www.linkedin.com/in/sharmapratik/
+# 👋 Hi, I’m Pratik
+I’m a fullstack developer from India, and working as Technical Lead at [SLB Digital](slb.com).
 
-<!---
-topratiksharma/topratiksharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Currently I am working on following techs:
+Javascript, Angular, React, Azure
+
+## I have also worked with...
+
+
+## I post actively on...
+[Insta](https://www.instagram.com/pratik.sharma0206), [Linkedin](https://www.linkedin.com/in/sharmapratik/)
+
+### You can also find me on...
+[EMail](mailto:pratiksharma@live.in), [Twitter](https://twitter.com/NomadicPratik)
