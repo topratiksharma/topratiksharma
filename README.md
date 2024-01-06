@@ -1,8 +1,3 @@
-# 👋 Hi, I’m Pratik
-[Insta](https://www.instagram.com/pratik.sharma0206), [Linkedin](https://www.linkedin.com/in/sharmapratik/)
-[EMail](mailto:), [Twitter](https://twitter.com/NomadicPratik)
-
-
 ## Hello👋 I'm Pratik
 
 I'm a fullstack developer from India 🇮🇳 and working as a Technical Lead at [SLB Digital](slb.com)
