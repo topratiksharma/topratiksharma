@@ -1,6 +1,6 @@
 # Hello👋 I'm Pratik
 
-## I'm a fullstack developer from India 🇮🇳 and working as a Senior Software Enginner at [Centrica Energy](https://centricaenergy.com/) Copenhagen, Denmark.
+## I'm a fullstack developer working as a Senior Software Enginner at [Centrica Energy](https://centricaenergy.com/) Copenhagen, Denmark.
 
 ### Currently I am working with ...
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
