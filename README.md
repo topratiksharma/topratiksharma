@@ -1,6 +1,6 @@
 # Hello 👋 I'm Pratik
 
-## I'm a Full-Stack Developer working as a Senior Software Engineer at [FOSS Analytics](https://www.fossanalytics.com/en/) in Copenhagen, Denmark.
+## I'm a Full-Stack Developer working as a Senior Software Engineer at </br> [FOSS Analytics](https://www.fossanalytics.com/en/) in Copenhagen, Denmark.
 
 ### 🚀 Currently working with ...
 <p>
