@@ -7,15 +7,13 @@
 <a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/angular.svg" width="30"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30"/></a>
-<a href="#"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30"/></a>
 </p>
-
 ### 🛠️ I have also worked with ...
 <p>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30"/></a>
